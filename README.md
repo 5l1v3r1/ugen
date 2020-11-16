@@ -42,11 +42,11 @@ python ugen.py -i userList.txt -o outputFile.txt -n
 -n = adds numbers 1-5 to the end of each username type - for example jbloggs1, jbloggs2 etc
 
 **The input file should contain names in the following format:**
-
+```
 firstname,lastname
 firstname,lastname
 firstname,lastname
-
+```
 
 
 
